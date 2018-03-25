@@ -176,6 +176,7 @@ public class EventDriver
 	//makes a copy of the array with the same length:
 		Event[] copyArray=new Event[e.length];
 		
+	//Here my knowledge in Polymorphism is being shown:		
 	//This method here does not misbehave since polymorphism is happening:
 		
 //		for(int i=0; i<copyArray.length; i++)
