@@ -6,10 +6,6 @@ import firstPackage.Event;
 /*Defining a new class named Festival which is a type of Event*/
 public class Festival extends Event
 {
-	/*Defining the attributes for PART 1: NOTICE THEY ARE PROTECTED IN THIS CASE */
-//		protected String name;
-//		protected double ticketPrice;
-//		protected int duration;
 	
 	/*Defining the attributes for PART 2; NOTICE THEY ARE PRIVATE IN THIS CASE*/
 		private String name;
