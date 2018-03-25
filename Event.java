@@ -1,6 +1,6 @@
 package firstPackage;
 /*
- * This program has 4 different packages.
+ * This program has 4 different packages and they contain the following classes in each.
  * 1) Event class
  * 2) Festival, Culturalfiesta, Musicfiesta
  * 3) SportCompetition
