@@ -26,20 +26,8 @@ public class Culturalfiesta extends Festival
 			this.numSpokenLanguages= c.numSpokenLanguages;
 		}
 		
-	
-	//toString method for PART 1:
-//		public String toString()
-//		{
-//		/* notice how the attributes name, ticketprice and duration can be accessed directly from the father
-//		 * because they are protected:
-//		 */
-//			return("This " + name + " Culturalfiesta will be held in " + this.getYear() +
-//					", month: " + this.getMonth() + " in " + this.getNumCities() + " cities, for " +
-//					duration + " day(s), the ticket will cost $" + ticketPrice + " and has " +
-//					numSpokenLanguages + " spoken languages.");
-//		}
 		
-	//toString method for PART 2:
+	//toString method:
 		public String toString()
 		{
 		/* notice now the attributes name, ticketprice and duration need permission from the father
