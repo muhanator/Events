@@ -27,18 +27,8 @@ public class Musicfiesta extends Festival
 		}
 	
 	
-//	//toString() method for PART 1:
-		
-		/*Notice how the attributes name, duration and ticketPrice can be accessed directly since the father (Festival)
-		 * has made them protected so that only his friends(classes in same package) and his children can see them*/
-//		public String toString()
-//		{
-//			return ("This " + name +  " Musicfiesta will be held in " + this.getYear() + ", month: " + 
-//					this.getMonth() + " in " + this.getNumCities() + " cities, for " + duration +
-//					" days, the ticket will cost " + ticketPrice + "$, and has " + numBands + " bands." );
-//		}
 	
-	//toString() method for PART 2:
+	//toString() method:
 		
 		/*Notice how the attributes name, duration and ticketPrice now need permission from the Father (Festival class)
 		 * to be accessed because he has made them private: */
